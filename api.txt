@@ -1,0 +1,17 @@
+listing all employees
+method:get 
+url:http://127.0.0.1:8000/api/v2/workers//
+
+creating workers
+method:post
+url:http://127.0.0.1:8000/api/v2/workers//
+
+
+updating workers
+method:put
+url:http://127.0.0.1:8000/api/v2/workers//1/
+
+
+deleting workers
+method:delete
+url:http://127.0.0.1:8000/api/v2/workers//3/

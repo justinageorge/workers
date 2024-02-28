@@ -1,0 +1,1 @@
+1.first we have to serialize and deserialize employee details.for that we need to create serializers
